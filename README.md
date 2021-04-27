@@ -16,4 +16,6 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/643b7ca2b2dc4daba1e700c216bb87d9)](https://www.codacy.com/gh/Bharathgopal/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/Emb-C&amp;utm_campaign=Badge_Grade)|
+|[![Compile-Linux](https://github.com/264046/SeatHeatingApp/actions/workflows/Compile.yml/badge.svg)](https://github.com/264046/SeatHeatingApp/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/264046/SeatHeatingApp/actions/workflows/Codequality.yml/badge.svg)](https://github.com/264046/SeatHeatingApp/actions/workflows/Codequality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c5b19591521c41fb98574997eeda1c5c)](https://www.codacy.com/gh/264046/SeatHeatingApp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=264046/SeatHeatingApp&amp;utm_campaign=Badge_Grade)|
+
+
