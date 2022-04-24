@@ -1,9 +1,9 @@
 /**
  * @file project_main.c
- * @author anoop
+ * @author deepak
  * @brief app to control temperature in a car
  * @version 0.1
- * @date 2021-04-23
+ * @date 2022-03-23
  * 
  * @copyright Copyright (c) 2021
  * 
