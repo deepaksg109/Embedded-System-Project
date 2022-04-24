@@ -1,9 +1,6 @@
 #include "activity2.h"
 
-/**
- * @brief initializes registers
- * 
- */
+
 void adc_init()
 {
     ADMUX|=(1<<REFS0);
