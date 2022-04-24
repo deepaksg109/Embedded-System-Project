@@ -50,7 +50,7 @@ doc:
 # Build the code code documentation using Doxygen command line utility
 	make -C documentation
 
-clean:
+clean
 # Remove all the build files and generated document files
 	rm -rf $(call FixPath,$(BUILD_DIR)/*)
 	make -C documentation clean
