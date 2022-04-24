@@ -1,9 +1,6 @@
 #include "activity1.h"
 
-/**
- * @brief initialise registers
- * 
- */
+
 
 void peripheral_init(void)
 {
